@@ -1,0 +1,101 @@
+.icon-img{
+width: 32px;
+height: 32px;
+}
+.img-logo{
+    width: 90px;
+    height: 90px;
+}
+header{
+    height: 100px;
+    background: white;
+}
+.top-line{
+    height: 10px;
+    background-color: tomato;
+}
+
+.dropdown-toggle::after{
+    display: none;
+}
+button.profile{
+    
+        background: none;
+        border: none;
+        padding: 0;
+    
+}
+button.testButton{
+    background: none;
+    border: none;
+    padding: 0;
+    
+}
+.testButton img{
+    border-radius: 50px ;
+}
+.testBlock{
+    display: none;
+    background: #f8f9fa;
+    height: 410px;
+    width: 500px;
+    font-size: 11px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.block{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.testBlock p{
+    margin: auto;
+}
+.vkPhoto{
+height: 32px;
+width:32px;
+}
+.instPhoto{
+    height: 32px;
+    width: 32px;
+}
+ul{
+    list-style-type: none;
+}
+.footer{
+    margin-top: 30px;
+    background-color:#f8f9fa;
+}
+.reg{
+    display: flex;
+    flex-direction: column;
+}
+.card-img-top{
+ width: 20em;
+}
+.rec-bloc{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.rand-movie{
+    display: none;
+    background: #f8f9fa;
+    height: 410px;
+    width: 500px;
+    font-size: 11px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+.zhrebiy{
+    display: none;
+    background: #f8f9fa;
+    height: 410px;
+    width: 500px;
+    font-size: 11px;
+    margin-top: 10px;
+    padding-left: 10px;
+}
+
+.registration{
+    display: flex;
+    flex-direction: row;
+}
